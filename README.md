@@ -1,5 +1,5 @@
 # Basic_Rag_Pipeline
-This pipeline is inspired from deeplearning.ai RAG certification course.
+This pipeline is inspired from deeplearning.ai RAG certification course. This uses python lamaindex for RAG pipeline and true lense for evaluation of the RAG system.
 
 Here I have used my cover letter to make the model learn context about my cover letter for the job search.
 
